@@ -64,7 +64,7 @@ pycparser==2.19
 pylint==2.3.1
 python3-openid==3.1.0
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 render==1.0.0
 renderer==1.0.3
 requests==2.22.0
